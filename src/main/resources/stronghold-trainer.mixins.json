@@ -4,6 +4,7 @@
   "package": "io.github.mjtb49.strongholdtrainer.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "MixinBlocks",
     "MixinClientPlayNetworkHandler",
     "MixinClientWorld",
     "MixinCommandManager",
